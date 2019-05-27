@@ -13,4 +13,4 @@ else
         echo "$b is max"
 
 if [ $a AND $b]
-
+do
