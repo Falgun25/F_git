@@ -1,0 +1,22 @@
+﻿Linux Exercies
+Ans:
+1.pwd
+2.chmod 400 text_file
+3.useradd
+4.sudo apt-get install mysql
+5. :i for insertmod, :w save
+6.up arrow
+7.ps -ef | grep mysql
+8.scp
+9. ls -l *.txt
+10.killall -9
+11. head file1txt
+12. free
+13.rm file1txt, rm -r dirname
+14. grep -i pattern
+15.date +"%d/%m/%y"
+16.:1, $d
+17.744
+18.passwd user
+19.
+20. chgrp joy file.txt
