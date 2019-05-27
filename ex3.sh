@@ -12,5 +12,7 @@ else
 	echo "$a is min"
         echo "$b is max"
 
-if [ $a AND $b]
-do
+if [ $a > 0 AND $b > 0]
+then
+	echo "a&b +"
+
