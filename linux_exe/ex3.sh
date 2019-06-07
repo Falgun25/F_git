@@ -15,4 +15,4 @@ else
 if [ $a > 0 AND $b > 0]
 then
 	echo "a&b +"
-
+else
