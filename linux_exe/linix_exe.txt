@@ -20,3 +20,6 @@ Ans:
 18.passwd user
 19.
 20. chgrp joy file.txt
+
+
+nkjgffhjbgdjfg
