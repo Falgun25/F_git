@@ -108,7 +108,7 @@ function rawadd() {
         tColum.setAttribute("id", "idc"+(totalraw+1)+(x+1));
 
 
-        // traw.appendChild(tColum1)
+        // traw.appendChild(tColum1) //change in branch 2
         // tColum1.appendChild(button)
         traw.appendChild(tColum)
         tColum.appendChild(element)
